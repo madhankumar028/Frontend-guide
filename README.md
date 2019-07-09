@@ -41,3 +41,9 @@ Use your preferred choice of code editor, I would recommend to use VS code (it�
 3. Event bubbling and capturing.
 4. How ‘this’ keyword works in JS ?, refer (https://2ality.com/2014/05/this.html).
 5. Prototype (https://2ality.com/2010/12/javascripts-prototypal-inheritance.html).
+
+#### Free Ebooks for JS:
+- [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+- [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
+- [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
