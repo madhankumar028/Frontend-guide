@@ -41,6 +41,11 @@ Use your preferred choice of code editor, I would recommend to use VS code (itâ€
 4. How [â€˜this'](https://2ality.com/2014/05/this.html) keyword works in JS ?.
 5. [Prototype](https://2ality.com/2010/12/javascripts-prototypal-inheritance.html).
 
+#### JavaScript Style Guide:
+Reason why do we need to choose a style guide is, all code in any code-base should look like a single person typed it, no matter how many people contributed.
+1. [Airbnb](https://github.com/airbnb/javascript) styleguide.
+2. [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/).
+
 #### Free Ebooks for JS:
 - [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
