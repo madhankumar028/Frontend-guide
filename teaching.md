@@ -4,8 +4,6 @@ Teaching will help everyone career moves forward. Teaching will helps us to lear
 
 > A question is an opportunity for growth (for who asks it). Then teaching, you have the answer.
 
-How do we become a better teacher?
-
 ## Disclaimer:
 
 Someone may jump into your desk and ask you something. Irrespective of their experience we have to follow the below approach.
@@ -19,6 +17,7 @@ Someone may jump into your desk and ask you something. Irrespective of their exp
         . Do they really understand the context?
         . Can they identify the root cause?
 ```
+## How do we become a better teacher?
 
 * **Have realistic expectations**. Teaching is a Waterfall and it is not a Agile. People need time, be realistic.
   * You cannot expect them to absorb everything at once.
