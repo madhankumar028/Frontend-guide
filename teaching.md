@@ -2,9 +2,9 @@
 
 Teaching will help everyone career moves forward. Teaching will helps us to learn the things in depth.
 
-How do we become a better teacher?
-
 > A question is an opportunity for growth (for who asks it). Then teaching, you have the answer.
+
+How do we become a better teacher?
 
 ## Disclaimer:
 
