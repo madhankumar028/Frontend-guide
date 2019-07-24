@@ -1,4 +1,4 @@
-# Basic Frontend guide.
+# Frontend guide.
 
 ### General: 
 
