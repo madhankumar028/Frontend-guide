@@ -19,3 +19,6 @@ Any arrows that were previously show become hidden.
 2. Generate 8 random numbers from the range between 0 to 63, and place the diamond in those places as a background image.
 2. Add event listener to each squares.
 3. Once the user clicks on a square, do the necessary action and remove the event listener.
+
+**UI:**
+[Mock UI](https://github.com/mkumar028/Frontend-guide/blob/master/8x8.jpg)
